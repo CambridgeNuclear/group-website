@@ -1,0 +1,50 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+
+- name: Zi Liang Tang
+  photo: zlt.jpg
+  info: Working on sensitivity and data assimilation for spent fuel verification
+  email: zlt20@cam.ac.uk
+
+- name: Dominic Brennan
+  photo: dom.jpg
+  info: Optimizing LWR fuel assembly designs
+  email: djb249@cam.ac.uk
+
+- name: Alejandra De Lara
+  photo: alejandra.jpg
+  info: Exploring the design space of high temperature salt-cooled reactors
+  email: ad2048@cam.ac.uk
+
+- name: Patrick Carter-Cortez
+  photo: patrick.jpg
+  info: Simulating the JHR
+  email: ptc36@cam.ac.uk
+
+- name: Maximilian Kraus
+  photo: max.jpg
+  info: Exploring the transient behaviour of nuclear propulsion using the random ray method
+  email: mhgk4@cam.ac.uk
+
+- name: Jamie Edwards
+  photo: jamie.jpg
+  info: Working on high-fidelity radiation transport in fusion reactors
+  email: jke26@cam.ac.uk
+
+- name: Sannah Van Balen
+  photo: sannah.jpg
+  info: Exploring the perception of risk in nuclear energy
+  email: shpv2@cam.ac.uk
+
+
+
+
+

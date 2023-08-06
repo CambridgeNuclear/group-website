@@ -1,0 +1,63 @@
+- name: Eugene Shwageraus
+  photo: eugene.jpg
+  info: Professor of Nuclear Energy Systems
+  email: es607@cam.ac.uk
+  number_educ: 1
+  education1: PhD MIT 
+
+- name: Geoff Parks
+  photo: geoff.jpg
+  info: Professor of Nuclear Engineering
+  email: gtp10@cam.ac.uk
+  number_educ: 1
+  education1: PhD University of Cambridge
+
+- name: Nathaniel Read
+  photo: nathan.jpg
+  info: Research associate working on nuclear safety and reactor design
+  email: nr438@cam.ac.uk
+  number_educ: 1
+  education1: PhD University of Cambridge
+
+- name: Paul Cosgrove
+  photo: paul.jpg
+  info: Research fellow working on numerical methods in radiation transport
+  email: pmc55@cam.ac.uk
+  number_educ: 1
+  education1: PhD University of Cambridge
+
+- name: Mikolaj Kowalski
+  photo: mikolaj.jpg
+  info: Research scientist developing the SCONE Monte Carlo code
+  email: mak60@cam.ac.uk
+  number_educ: 1
+  education1: PhD University of Cambridge
+
+- name: Valeria Raffuzzi
+  photo: valeria.jpg
+  info: Research associate working on accelerating Monte Carlo radiation transport
+  email: vr339@cam.ac.uk
+  number_educ: 1
+  education1: PhD University of Cambridge
+
+- name: Congjin Ding
+  photo: congjin.jpg
+  info: Research associate working on gas cooled fast reactor CFD and reactor physics
+  email: cd825@cam.ac.uk
+  number_educ: 1
+  education1: PhD CEA Cadarache
+
+- name: Xuan Ha Nguyen
+  photo: ha.jpg
+  info: Research associate working on accident tolerant fuels in SMRs
+  email: xhn20@cam.ac.uk
+  number_educ: 1
+  education1: PhD KAIST?
+
+- name: Anuj Dubey
+  photo: anuj.jpg
+  info: Research associate working on sodium-cooled fast reactor physics and perturbation theory
+  email: ad2221@cam.ac.uk
+  number_educ: 1
+  education1: PhD Bhabha?
+

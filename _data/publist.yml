@@ -1,0 +1,8 @@
+- title: "Placeholder title"
+  image: Eugene.png
+  description: Something something nuclear reactors something something Monte Carlo.
+  authors: PhD, Postdoc, Boss
+  link:
+    url: https://...
+    display: arXiv:... (2022)
+  highlight: 1
