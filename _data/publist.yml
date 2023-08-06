@@ -6,3 +6,136 @@
     url: https://...
     display: arXiv:... (2022)
   highlight: 1
+  output: false
+
+  - title: "Megawatt class space fission power system mass modelling"
+  description: We describe and demonstrate an algorithm for mass minimisation of a fission-based space system.
+  authors: N. Read, E. Shwageraus
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0306454922006247?via%3Dihub
+    display: Annals of Nuclear Energy (2023)
+  highlight: 1
+
+  - title: "An Inline Burn-up Algorithm"
+  image: stability.png
+  description: A new and perhaps more stable algorithm for burn-up calculations is proposed and numerically analysed.
+  authors: P. Cosgrove, E. Shwageraus, J. Leppänen
+  link:
+    url: https://www.tandfonline.com/doi/pdf/10.1080/00295639.2022.2106732
+    display: Nuclear Science and Engineering (2022)
+  highlight: 1
+
+  - title: "Impact of Thermal-Hydraulic Feedback and Differential Thermal Expansion on European Sodium-Cooled Fast Reactor Core Power Distribution"
+  description: A code comparison analysing different solvers and physics on the power distirbution in the ESFR. We contributed GeN-Foam results.
+  authors: B. Lindley, F. Á. Velarde, U. Baker, J. Bodi, P. Cosgrove, A. Charles, C. Fiorina, E. Fridman, J. Krepel, J. Lavarenne, K. Mikityuk, E. Nikitin, A. Ponomarev, S. Radman, E. Shwageraus, B. Tollit
+  link:
+    url: https://asmedigitalcollection.asme.org/nuclearengineering/article-abstract/9/3/031301/1159608/Impact-of-Thermal-Hydraulic-Feedback-and
+    display: ASME (2023)
+  highlight: 0
+
+  - title: "Monte Carlo Source Convergence Acceleration by Hybrid Multigroup and Continuous Energy Neutron Transport"
+  image: accel.png
+  description: We accelerated source convergence in Monte Carlo eigenvalue calculations by performing multi-group transport (with cross sections generated on-the-fly).
+  authors: V. Raffuzzi, L. Morgan, E. Shwageraus, P. Cosgrove
+  link:
+    url: https://www.tandfonline.com/doi/pdf/10.1080/00295639.2022.2107262
+    display: Nuclear Science and Engineering (2022)
+  highlight: 1
+
+  - title: "The British Steam Generating Heavy Water Reactor: A reassessment with thermal hydraulic-neutronic coupling"
+  description: We simulated a British reactor which, at the time of its construction, could have had either a positive or a negative reactivity coefficient. At the time, this was determined only experimentally - modern simulation tools and multiphysics showed that the reactivity coefficients are indeed negative and we explain why.
+  authors: S. Billiet, P. Cosgrove, N. Read
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0029549322002345
+    display: Nuclear Engineering and Design (2022)
+  highlight: 1
+
+  - title: "Design space exploration for salt-cooled reactor system: Part I–Thermal hydraulic design"
+  authors: Z. Xing, P. Cosgrove, M. Margulis, E. Shwageraus
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0029549322001339
+    display: Nuclear Engineering and Design (2022)
+  highlight: 0
+
+  - title: "Rapid neutronic and thermal hydraulic analysis of LEU space reactor core"
+  authors: N. Read, E. Shwageraus
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0306454922000731?via%3Dihub
+    display: Annals of Nuclear Energy (2022)
+  highlight: 1
+
+  - title: "On the stability of algorithms for enforcing xenon equilibrium"
+  authors: P. Cosgrove, E. Shwageraus
+  link:
+    url: https://api.repository.cam.ac.uk/server/api/core/bitstreams/13d8015d-033a-4758-b98d-6bc140dcd62f/content
+    display: Annals of Nuclear Energy (2022)
+  highlight: 0
+
+  - title: "Stability analysis of higher-order neutronics-depletion coupling schemes and Bateman operators"
+  description: The stability of several common burn-up algorithms is analysed. This includes using realistic Bateman operators (namely CRAM) and chains of nuclides. This reveals several phenomena which had been noticed in simulations previously but had no easy justification.
+  authors: P. Cosgrove, E. Shwageraus
+  link:
+    url: https://api.repository.cam.ac.uk/server/api/core/bitstreams/4d539256-9d56-47e4-95e2-e933d0c9edad/content
+    display: Journal of Computational Physics (2022)
+  highlight: 1
+
+    - title: "Accelerating Monte Carlo neutron transport by approximating thermal cross sections with functional forms"
+ description: Low energy cross sections of many nuclides often have simple shapes. Rather than performing table look-ups and interpolations, we fit these to various functions and investigate the acceleration/accuracy trade-off of doing so.
+  authors: V. Raffuzzi, L. Morgan, E. Shwageraus
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0306454921006964?via%3Dihub
+    display: Annals of Nuclear Energy (2022)
+  highlight: 1
+
+  - title: "Impact of molybdenum cross sections on FHR analysis"
+  authors: K.M. Ramey, M. Margulis, N. Read, E. Shwageraus, B. Petrovic
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1738573321005635?via%3Dihub
+    display: Nuclear Engineering and Technology (2021)
+  highlight: 0
+
+  - title: "SCONE: a student-oriented modifiable Monte Carlo particle transport framework"
+  description: This paper introduces our Monte Carlo code and the design decisions behind it. We've come a long way since then.
+  authors: M.A. Kowalski, P. Cosgrove, J. Broman, E. Shwageraus
+  link:
+    url: https://www.mdpi.com/2673-4362/2/1/6
+    display: Journal of Nuclear Engineering (2021)
+  highlight: 1
+
+  - title: "Acceleration of surface tracking in Monte Carlo transport via distance caching"
+  description: A simple trick is proposed to speed-up ray tracing in nested constructive solid geometries. This gave up to a 20% speed-up on finely discretised LWR problems.
+  authors: M.A. Kowalski, P. Cosgrove
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0306454920306988
+    display: Annals of Nuclear Energy (2021)
+  highlight: 1
+
+  - title: "A hybrid continuous energy and multi-group Monte Carlo method"
+  description: We allow different energy fidelities in different areas of a Monte Carlo geometry. We demonstrate that the continuous energy region can suffer only a small accuracy penalty while gaining a substantial speed-up.
+  authors: M.A. Kowalski, E. Shwageraus
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S030645491930787X?via%3Dihub
+    display: Annals of Nuclear Energy (2020)
+  highlight: 1
+
+  - title: "Stability analysis of predictor-corrector schemes for coupling neutronics and depletion"
+ description: A stability analysis of the predictor-corrector algorithm used in burn-up calculations
+  authors: P. Cosgrove, E. Shwageraus, G.T. Parks
+  link:
+    url: https://api.repository.cam.ac.uk/server/api/core/bitstreams/f522753a-e622-4bcc-aba7-75b9e5b414f1/content
+    display: Annals of Nuclear Energy (2020)
+  highlight: 0
+
+  - title: "A simple implicit coupling scheme for Monte Carlo neutronics and isotopic depletion"
+  authors: P. Cosgrove, E. Shwageraus, G.T. Parks
+  link:
+    url: https://api.repository.cam.ac.uk/server/api/core/bitstreams/d5503e23-1d57-4d95-bb80-dc5472ad7489/content
+    display: Annals of Nuclear Energy (2020)
+  highlight: 0
+
+  - title: "Neutron clustering as a driver of Monte Carlo burn-up instability"
+  authors: P. Cosgrove, E. Shwageraus, G.T. Parks
+  link:
+    url: https://api.repository.cam.ac.uk/server/api/core/bitstreams/67c7fc68-964c-48f7-a8b9-bd1dd444b264/content
+    display: Annals of Nuclear Energy (2020)
+  highlight: 0
