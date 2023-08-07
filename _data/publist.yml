@@ -9,6 +9,13 @@
 #    display: arXiv:... (2022)
 #  highlight: 1
 
+- title: "Towards preliminary design calculations with TRANSURANUS for application of Hastelloy cladding material"
+  authors: A. de Lara, A. Schubert, E. Shwageraus, P. Van Uffelen
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S030645492300292X
+    display: Annals of Nuclear Energy (2023)
+  highlight: 0
+
 - title: "Megawatt class space fission power system mass modelling"
   image: Eugene.png
   description: We describe and demonstrate an algorithm for mass minimisation of a fission-based space system.
@@ -32,7 +39,7 @@
   authors: B. Lindley, F. Á. Velarde, U. Baker, J. Bodi, P. Cosgrove, A. Charles, C. Fiorina, E. Fridman, J. Krepel, J. Lavarenne, K. Mikityuk, E. Nikitin, A. Ponomarev, S. Radman, E. Shwageraus, B. Tollit
   link:
     url: https://asmedigitalcollection.asme.org/nuclearengineering/article-abstract/9/3/031301/1159608/Impact-of-Thermal-Hydraulic-Feedback-and
-    display: ASME (2023)
+    display: Journal of Nuclear Engineering and Radiation Science (2023)
   highlight: 0
 
 - title: "Monte Carlo Source Convergence Acceleration by Hybrid Multigroup and Continuous Energy Neutron Transport"
@@ -43,6 +50,20 @@
     url: https://www.tandfonline.com/doi/pdf/10.1080/00295639.2022.2107262
     display: Nuclear Science and Engineering (2022)
   highlight: 1
+
+- title: "Evaluation of the ESFR End of Equilibrium Cycle State: Spatial Distributions of Reactivity Coefficients"
+  authors: U. Baker, M. Margulis, E. Shwageraus, E. Fridman, A. Jiménez Carrascosa, N. García Herranz, O. Cabellos, R. Gregg, J. Krepel
+  link:
+    url: https://asmedigitalcollection.asme.org/nuclearengineering/article/8/1/011316/1115764
+    display: Journal of Nuclear Engineering and Radiation Science (2022)
+  highlight: 0
+
+- title: "Decay Heat Characterization for the European Sodium Fast Reactor"
+  authors: A. Jiménez Carrascosa, N. García Herranz, J. Krepel, M. Margulis, U. Baker,  E. Shwageraus, E. Fridman,  R. Gregg 
+  link:
+    url: https://asmedigitalcollection.asme.org/nuclearengineering/article/8/1/011319/1114679
+    display: Journal of Nuclear Engineering and Radiation Science (2022)
+  highlight: 0
 
 - title: "The British Steam Generating Heavy Water Reactor: A reassessment with thermal hydraulic-neutronic coupling"
   image: Eugene.png
