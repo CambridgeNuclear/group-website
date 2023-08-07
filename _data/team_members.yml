@@ -14,7 +14,7 @@
 
 - name: Nathaniel Read
   photo: nathan.jpg
-  info: Research associate working on nuclear safety and reactor design
+  info: Assistant teaching professor working on nuclear safety and space reactor design
   email: nr438@cam.ac.uk
   number_educ: 1
   education1: PhD University of Cambridge
@@ -52,12 +52,12 @@
   info: Research associate working on accident tolerant fuels in SMRs
   email: xhn20@cam.ac.uk
   number_educ: 1
-  education1: PhD KAIST?
+  education1: PhD KAIST
 
 - name: Anuj Dubey
   photo: anuj.jpg
   info: Research associate working on sodium-cooled fast reactor physics and perturbation theory
   email: ad2221@cam.ac.uk
   number_educ: 1
-  education1: PhD Bhabha?
+  education1: PhD Homi Bhabha National Institute
 

@@ -1,14 +1,23 @@
-- title: "Placeholder title"
-  image: Eugene.png
-  description: Something something nuclear reactors something something Monte Carlo.
-  authors: PhD, Postdoc, Boss
+# Template entry below. Note, highlighted entries must have an image and description.
+#
+#- title: "Placeholder title"
+#  image: Eugene.png
+#  description: Something something nuclear reactors something something Monte Carlo.
+#  authors: PhD, Postdoc, Boss
+#  link:
+#    url: https://...
+#    display: arXiv:... (2022)
+#  highlight: 1
+
+- title: "Towards preliminary design calculations with TRANSURANUS for application of Hastelloy cladding material"
+  authors: A. de Lara, A. Schubert, E. Shwageraus, P. Van Uffelen
   link:
-    url: https://...
-    display: arXiv:... (2022)
-  highlight: 1
-  output: false
+    url: https://www.sciencedirect.com/science/article/pii/S030645492300292X
+    display: Annals of Nuclear Energy (2023)
+  highlight: 0
 
 - title: "Megawatt class space fission power system mass modelling"
+  image: Eugene.png
   description: We describe and demonstrate an algorithm for mass minimisation of a fission-based space system.
   authors: N. Read, E. Shwageraus
   link:
@@ -30,7 +39,7 @@
   authors: B. Lindley, F. Á. Velarde, U. Baker, J. Bodi, P. Cosgrove, A. Charles, C. Fiorina, E. Fridman, J. Krepel, J. Lavarenne, K. Mikityuk, E. Nikitin, A. Ponomarev, S. Radman, E. Shwageraus, B. Tollit
   link:
     url: https://asmedigitalcollection.asme.org/nuclearengineering/article-abstract/9/3/031301/1159608/Impact-of-Thermal-Hydraulic-Feedback-and
-    display: ASME (2023)
+    display: Journal of Nuclear Engineering and Radiation Science (2023)
   highlight: 0
 
 - title: "Monte Carlo Source Convergence Acceleration by Hybrid Multigroup and Continuous Energy Neutron Transport"
@@ -42,7 +51,22 @@
     display: Nuclear Science and Engineering (2022)
   highlight: 1
 
+- title: "Evaluation of the ESFR End of Equilibrium Cycle State: Spatial Distributions of Reactivity Coefficients"
+  authors: U. Baker, M. Margulis, E. Shwageraus, E. Fridman, A. Jiménez Carrascosa, N. García Herranz, O. Cabellos, R. Gregg, J. Krepel
+  link:
+    url: https://asmedigitalcollection.asme.org/nuclearengineering/article/8/1/011316/1115764
+    display: Journal of Nuclear Engineering and Radiation Science (2022)
+  highlight: 0
+
+- title: "Decay Heat Characterization for the European Sodium Fast Reactor"
+  authors: A. Jiménez Carrascosa, N. García Herranz, J. Krepel, M. Margulis, U. Baker,  E. Shwageraus, E. Fridman,  R. Gregg 
+  link:
+    url: https://asmedigitalcollection.asme.org/nuclearengineering/article/8/1/011319/1114679
+    display: Journal of Nuclear Engineering and Radiation Science (2022)
+  highlight: 0
+
 - title: "The British Steam Generating Heavy Water Reactor: A reassessment with thermal hydraulic-neutronic coupling"
+  image: Eugene.png
   description: We simulated a British reactor which, at the time of its construction, could have had either a positive or a negative reactivity coefficient. At the time, this was determined only experimentally - modern simulation tools and multiphysics showed that the reactivity coefficients are indeed negative and we explain why.
   authors: S. Billiet, P. Cosgrove, N. Read
   link:
@@ -58,6 +82,7 @@
   highlight: 0
 
 - title: "Rapid neutronic and thermal hydraulic analysis of LEU space reactor core"
+  image: Eugene.png
   authors: N. Read, E. Shwageraus
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0306454922000731?via%3Dihub
@@ -72,6 +97,7 @@
   highlight: 0
 
 - title: "Stability analysis of higher-order neutronics-depletion coupling schemes and Bateman operators"
+  image: Eugene.png
   description: The stability of several common burn-up algorithms is analysed. This includes using realistic Bateman operators (namely CRAM) and chains of nuclides. This reveals several phenomena which had been noticed in simulations previously but had no easy justification.
   authors: P. Cosgrove, E. Shwageraus
   link:
@@ -80,6 +106,7 @@
   highlight: 1
 
 - title: "Accelerating Monte Carlo neutron transport by approximating thermal cross sections with functional forms"
+  image: Eugene.png
   description: Low energy cross sections of many nuclides often have simple shapes. Rather than performing table look-ups and interpolations, we fit these to various functions and investigate the acceleration/accuracy trade-off of doing so.
   authors: V. Raffuzzi, L. Morgan, E. Shwageraus
   link:
@@ -95,6 +122,7 @@
   highlight: 0
 
 - title: "SCONE: a student-oriented modifiable Monte Carlo particle transport framework"
+  image: Eugene.png
   description: This paper introduces our Monte Carlo code and the design decisions behind it. We've come a long way since then.
   authors: M.A. Kowalski, P. Cosgrove, J. Broman, E. Shwageraus
   link:
@@ -103,6 +131,7 @@
   highlight: 1
 
 - title: "Acceleration of surface tracking in Monte Carlo transport via distance caching"
+  image: Eugene.png
   description: A simple trick is proposed to speed-up ray tracing in nested constructive solid geometries. This gave up to a 20% speed-up on finely discretised LWR problems.
   authors: M.A. Kowalski, P. Cosgrove
   link:
@@ -111,6 +140,7 @@
   highlight: 1
 
 - title: "A hybrid continuous energy and multi-group Monte Carlo method"
+  image: Eugene.png
   description: We allow different energy fidelities in different areas of a Monte Carlo geometry. We demonstrate that the continuous energy region can suffer only a small accuracy penalty while gaining a substantial speed-up.
   authors: M.A. Kowalski, E. Shwageraus
   link:
