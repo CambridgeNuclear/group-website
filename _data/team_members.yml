@@ -3,7 +3,7 @@
   info: Professor of Nuclear Energy Systems
   email: es607@cam.ac.uk
   number_educ: 1
-  education1: PhD MIT 
+  education1: PhD MIT
 
 - name: Geoff Parks
   photo: geoff.jpg
@@ -26,7 +26,7 @@
   number_educ: 1
   education1: PhD University of Cambridge
 
-- name: Mikolaj Kowalski
+- name: Mikolaj Adam Kowalski
   photo: mikolaj.jpg
   info: Research scientist developing the SCONE Monte Carlo code
   email: mak60@cam.ac.uk
