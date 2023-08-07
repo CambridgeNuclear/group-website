@@ -8,7 +8,6 @@ permalink: /
 
 We are a research group in the Department of Engineering at the University of Cambridge. We focus on the design and simulation of nuclear reactors, as well as computational methods in radiation transport more generally.
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -37,7 +36,7 @@ We are a research group in the Department of Engineering at the University of Ca
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/C5G7.png" alt="Slide 5" />
-        </div>       
+        </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/burnup.jpg" alt="Slide 6" />
         </div>
@@ -51,7 +50,6 @@ We are a research group in the Department of Engineering at the University of Ca
     <span class="sr-only">Next</span>
   </a>
 </div>
-
 
 We aim to improve the efficiency and economics of current nuclear reactors, as well as exploring advanced reactor concepts. This includes designing reactors to produce high temperature heat for improved efficiency and industrial needs and developing reactors for space applications. We also work to improve the efficiency of radiation transport methods (especially those relevant to reactors). To this end, we have developed the Monte Carlo code SCONE to prototype and test new algorithms. More details can be found in [Research](research).
 
