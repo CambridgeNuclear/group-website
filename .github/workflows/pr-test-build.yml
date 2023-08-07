@@ -34,19 +34,23 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
-      - name: Post a comment
-        uses: mshick/add-pr-comment@v2
-        with:
-          message-success: |
-            Hello developer!
+      # We cannot post a comment from a PR from a fork due to security constraines 
+      # We will need to think about work-around for this
+      # Perhaps just an automatic comment with intructions will do or we can ignore it 
+      # and pass the info internally...?
+      # - name: Post a comment
+      #   uses: mshick/add-pr-comment@v2
+      #   with:
+      #     message-success: |
+      #       Hello developer!
 
-            I am a bot and I have built your PR 🦭!
+      #       I am a bot and I have built your PR 🦭!
 
-            Your PR has been built and is ready for review.
-            The site is available at: ${{ steps.upload.outputs.artifact_url }}.
-            You can also download the artifact from the Artifacts tab.
+      #       Your PR has been built and is ready for review.
+      #       The site is available at: ${{ steps.upload.outputs.artifact_url }}.
+      #       You can also download the artifact from the Artifacts tab.
 
-            To view the website use `jakyll serve` in your local environment.
-            And then open http://localhost:4000 in your browser.
+      #       To view the website use `jakyll serve` in your local environment.
+      #       And then open http://localhost:4000 in your browser.
 
-            Thanks!
+      #       Thanks!
