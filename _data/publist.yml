@@ -17,7 +17,7 @@
   highlight: 0
 
 - title: "Megawatt class space fission power system mass modelling"
-  image: Eugene.png
+  image: images/papers/mass_optimisation.png
   description: We describe and demonstrate an algorithm for mass minimisation of a fission-based space system.
   authors: N. Read, E. Shwageraus
   link:
@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "An Inline Burn-up Algorithm"
-  image: stability.png
+  image: images/papers/inline_stability.png
   description: A new and perhaps more stable algorithm for burn-up calculations is proposed and numerically analysed.
   authors: P. Cosgrove, E. Shwageraus, J. Leppänen
   link:
@@ -43,7 +43,7 @@
   highlight: 0
 
 - title: "Monte Carlo Source Convergence Acceleration by Hybrid Multigroup and Continuous Energy Neutron Transport"
-  image: accel.png
+  image: images/papers/accel.png
   description: We accelerated source convergence in Monte Carlo eigenvalue calculations by performing multi-group transport (with cross sections generated on-the-fly).
   authors: V. Raffuzzi, L. Morgan, E. Shwageraus, P. Cosgrove
   link:
@@ -66,7 +66,7 @@
   highlight: 0
 
 - title: "The British Steam Generating Heavy Water Reactor: A reassessment with thermal hydraulic-neutronic coupling"
-  image: Eugene.png
+  image: images/papers/sghwr.png
   description: We simulated a British reactor which, at the time of its construction, could have had either a positive or a negative reactivity coefficient. At the time, this was determined only experimentally - modern simulation tools and multiphysics showed that the reactivity coefficients are indeed negative and we explain why.
   authors: S. Billiet, P. Cosgrove, N. Read
   link:
@@ -87,7 +87,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0306454922000731?via%3Dihub
     display: Annals of Nuclear Energy (2022)
-  highlight: 1
+  highlight: 0
 
 - title: "On the stability of algorithms for enforcing xenon equilibrium"
   authors: P. Cosgrove, E. Shwageraus
@@ -97,7 +97,7 @@
   highlight: 0
 
 - title: "Stability analysis of higher-order neutronics-depletion coupling schemes and Bateman operators"
-  image: Eugene.png
+  image: images/papers/stability_ho.png
   description: The stability of several common burn-up algorithms is analysed. This includes using realistic Bateman operators (namely CRAM) and chains of nuclides. This reveals several phenomena which had been noticed in simulations previously but had no easy justification.
   authors: P. Cosgrove, E. Shwageraus
   link:
@@ -112,7 +112,7 @@
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0306454921006964?via%3Dihub
     display: Annals of Nuclear Energy (2022)
-  highlight: 1
+  highlight: 0
 
 - title: "Impact of molybdenum cross sections on FHR analysis"
   authors: K.M. Ramey, M. Margulis, N. Read, E. Shwageraus, B. Petrovic
@@ -122,7 +122,7 @@
   highlight: 0
 
 - title: "SCONE: a student-oriented modifiable Monte Carlo particle transport framework"
-  image: Eugene.png
+  image: images/papers/SCONE_logo_small.png
   description: This paper introduces our Monte Carlo code and the design decisions behind it. We've come a long way since then.
   authors: M.A. Kowalski, P. Cosgrove, J. Broman, E. Shwageraus
   link:
@@ -131,7 +131,7 @@
   highlight: 1
 
 - title: "Acceleration of surface tracking in Monte Carlo transport via distance caching"
-  image: Eugene.png
+  image: images/papers/cache.png
   description: A simple trick is proposed to speed-up ray tracing in nested constructive solid geometries. This gave up to a 20% speed-up on finely discretised LWR problems.
   authors: M.A. Kowalski, P. Cosgrove
   link:
@@ -140,7 +140,7 @@
   highlight: 1
 
 - title: "A hybrid continuous energy and multi-group Monte Carlo method"
-  image: Eugene.png
+  image: images/papers/hybrid.png
   description: We allow different energy fidelities in different areas of a Monte Carlo geometry. We demonstrate that the continuous energy region can suffer only a small accuracy penalty while gaining a substantial speed-up.
   authors: M.A. Kowalski, E. Shwageraus
   link:
